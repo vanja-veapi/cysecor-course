@@ -5,3 +5,4 @@
 ## Courses
 
 1. [Kalkulator inflacije](https://vanja-veapi.github.io/cysecor-course/01-js-kurs-kalkulator-inflacije/)
+2. [Pijaca Shopping Cart](https://vanja-veapi.github.io/cysecor-course/02-js-kurs-pijaca-shopping-cart/)
